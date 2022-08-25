@@ -41,3 +41,11 @@
 <div align=center>
 <!---//![Rhymakers's github stats](https://github-readme-stats.vercel.app/api?username=Rhymakers&show_icons=true)--->
  </div>
+ 
+<div align=left>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhymakers&layout=compact">
+
+<div align=left>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=songyong2535)](https://solved.ac/songyong2535)
+
