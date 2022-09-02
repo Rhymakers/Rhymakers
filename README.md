@@ -4,12 +4,12 @@
 
 - 👋 Hi, I’m @Rhymakers
 - 
-- 👀 I’m interested in ...
-- 
+- 👀 I’m interested in
+- ROS2 , RaspberryPi , Qt
 - 🌱 I’m currently learning ...
-- 
+- ROS2, Inverse Kinematics etc
 - 💞️ I’m looking to collaborate on ...
-- 
+- Collaborative robot , Manipulator etc
 - 📫 How to reach me ...
 
 <p align="center">
